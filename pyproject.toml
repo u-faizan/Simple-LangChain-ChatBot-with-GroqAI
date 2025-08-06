@@ -1,0 +1,12 @@
+[project]
+name = "langchain-chatbot-with-groq"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-core>=0.3.72",
+    "langchain-groq>=0.3.7",
+    "streamlit>=1.48.0",
+]
