@@ -101,7 +101,7 @@ with col2:
 st.markdown("---")
 st.markdown("Made with ❤️ by Umar Faizan")
 st.markdown("Connect with me on [LinkedIn](https://www.linkedin.com/in/u-faizan)")
-st.markdown("Check out the code on [GitHub]")
+st.markdown("Check out the code on [GitHub](https://github.com/u-faizan/Simple-LangChain-ChatBot-with-GroqAI)")
 st.markdown("Powered by [LangChain](https://langchain.com) and [GroqAI](https://groq.com)")
 
 
