@@ -64,7 +64,7 @@ streamlit run main.py
 
 Made with ❤️ by Umar Faizan  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/u-faizan)  
-Check out the code on [GitHub](https://github.com/yourusername/langchain-groq-chatbot)  
+Check out the code on [GitHub](https://github.com/u-faizan/Simple-LangChain-ChatBot-with-GroqAI)  
 Powered by [LangChain](https://langchain.com) and [GroqAI](https://groq.com)
 
 ---
